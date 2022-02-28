@@ -36,9 +36,9 @@ section.se {width:100%;height:100vh;border-bottom:1px solid #696969;min-height:6
 	.main_txt p {margin-bottom:10px;font-size:15px;}
 		.main_txt p .g_tip {display:inline-block;border:1px solid #000;border-radius:5px;padding:0 5px;height:28px;line-height:28px;margin-bottom:5px;}
 	.main_txt .txt {display:inline-block;font-size:15px;}
-	.main_txt .more_btn {display:block;width:120px;height:40px;background:#382d47;border-radius:5px;border:none;position:absolute;left:5px;bottom:10px;cursor:inherit;}
+	.main_txt .more_btn {display:block;width:120px;height:40px;background:#382d47;border-radius:5px;border:none;position:absolute;left:5px;bottom:10px;cursor:inherit;text-align:center;}
 	.main_txt .more_btn:hover {background:#6e5e83;transition:0.5s;}
-	.main_txt .more_btn a{color:#fff;display:block;width:100%;height:100%;line-height:40px;font-size:1.2em;cursor:inherit;}
+	.main_txt .more_btn a{color:#fff;display:block;width:100%;height:100%;line-height:40px;font-size:1em;cursor:inherit;}
 
 
 .box_bottom {width:100%;height:50%;padding-top:20px;}
